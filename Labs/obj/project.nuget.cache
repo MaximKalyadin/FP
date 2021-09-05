@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qJPZDjg9A3+dYUXASaXa1xeMVlBABDwLLVEjinbAYePHFvdKOWBnHQhyTJqqBttmQ06n+NL2fqlz+X+Hlp2iTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kalya\\source\\repos\\Labs\\Labs\\Labs.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kalya\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
