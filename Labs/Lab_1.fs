@@ -1,15 +1,19 @@
 ﻿open System
 
+let sequenceSum (stringValue: string) = 
+    stringValue 
+    |> Seq.map Char.GetNumericValue 
+    |> Seq.map int 
+    |> Seq.sum 
+
+let myFunc (value: bigint) func1 = 
+    let result = func1 (string value)
+    result
+
+
 [<EntryPoint>]
-(*[1..100]
-|> List.map(string)
-|> List.filter(fun x -> x.Contains("1"))
-|> List.sumBy(int)
-|> printf "%i"*)
-
-["врешоу"; "риртщр"; "тррвгоовЕово"; "о"; "орщшщтттщ"; "еЕ"; "КК"; "щтщ"]
-|> List.filter(fun x -> not (x.Contains("е")))
-|> List.filter(fun x -> not (x.Contains("Е")))
-|> List.iter (fun i -> printf "%s " i)
-
-
+let main argv =
+    let arg = 11111111111111111111I
+    let result = myFunc arg sequenceSum
+    printfn "Result is: %d" result
+    0 // return an integer exit code
