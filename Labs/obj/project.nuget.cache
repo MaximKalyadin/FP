@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qJPZDjg9A3+dYUXASaXa1xeMVlBABDwLLVEjinbAYePHFvdKOWBnHQhyTJqqBttmQ06n+NL2fqlz+X+Hlp2iTA==",
+  "dgSpecHash": "/NRSD7ZqIFd+EmEUcB9HXU9xtl9APUWn+NUPR+vcaRctKOyQLXWdlCIoszRNvldvBQtZ9rWQ/R2bdnadddlL2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kalya\\source\\repos\\Labs\\Labs\\Labs.fsproj",
+  "projectFilePath": "C:\\Users\\Maxim\\Source\\Repos\\FP\\Labs\\Labs.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kalya\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+    "C:\\Users\\Maxim\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
