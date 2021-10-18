@@ -1,0 +1,21 @@
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.deps.json
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.runtimeconfig.json
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.runtimeconfig.dev.json
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.dll
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.pdb
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.fsprojAssemblyReference.cache
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.AssemblyInfoInputs.cache
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.AssemblyInfo.fs
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.dll
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.pdb
+C:\Users\Maxim\Desktop\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.deps.json
+C:\Users\Maxim\Desktop\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.runtimeconfig.json
+C:\Users\Maxim\Desktop\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.runtimeconfig.dev.json
+C:\Users\Maxim\Desktop\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.dll
+C:\Users\Maxim\Desktop\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.pdb
+C:\Users\Maxim\Desktop\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.fsproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.AssemblyInfo.fs
+C:\Users\Maxim\Desktop\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.dll
+C:\Users\Maxim\Desktop\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.pdb
+C:\Users\Maxim\Desktop\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.genruntimeconfig.cache

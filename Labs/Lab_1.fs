@@ -24,7 +24,7 @@ let lab2 () =
         [
             let wordsLlist =
                 [
-                    let lines = System.IO.File.ReadLines("Шолохов Михаил. Тихий Дон.txt")
+                    let lines = System.IO.File.ReadLines("C:\Users\Maxim\Desktop\пример.txt")
                     for line in lines do
                         let words = 
                             line.ToLower().Split(' ')
@@ -81,7 +81,5 @@ let myFunc (value: bigint) func1 =
 
 [<EntryPoint>]
 let main argv =
-    let arg = 11111111111111111111I
-    let result = myFunc arg sequenceSum
-    printfn "Result is: %d" result
+    lab2()
     0 // return an integer exit code

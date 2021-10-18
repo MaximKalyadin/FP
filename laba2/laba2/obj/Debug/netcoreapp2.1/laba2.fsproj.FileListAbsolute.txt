@@ -1,0 +1,29 @@
+C:\Users\Леонид\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\bin\Debug\netcoreapp2.1\laba2.deps.json
+C:\Users\Леонид\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\bin\Debug\netcoreapp2.1\laba2.runtimeconfig.json
+C:\Users\Леонид\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\bin\Debug\netcoreapp2.1\laba2.runtimeconfig.dev.json
+C:\Users\Леонид\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\bin\Debug\netcoreapp2.1\laba2.dll
+C:\Users\Леонид\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\bin\Debug\netcoreapp2.1\laba2.pdb
+C:\Users\Леонид\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\obj\Debug\netcoreapp2.1\laba2.fsprojAssemblyReference.cache
+C:\Users\Леонид\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\obj\Debug\netcoreapp2.1\laba2.dll
+C:\Users\Леонид\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\obj\Debug\netcoreapp2.1\laba2.pdb
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\bin\Debug\netcoreapp2.1\laba2.deps.json
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\bin\Debug\netcoreapp2.1\laba2.runtimeconfig.json
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\bin\Debug\netcoreapp2.1\laba2.runtimeconfig.dev.json
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\bin\Debug\netcoreapp2.1\laba2.dll
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\bin\Debug\netcoreapp2.1\laba2.pdb
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\obj\Debug\netcoreapp2.1\laba2.fsprojAssemblyReference.cache
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\obj\Debug\netcoreapp2.1\laba2.AssemblyInfoInputs.cache
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\obj\Debug\netcoreapp2.1\laba2.AssemblyInfo.fs
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\obj\Debug\netcoreapp2.1\laba2.dll
+C:\Users\poluy\YandexDisk\УлГТУ\Функциональное программирование\laba2\laba2\obj\Debug\netcoreapp2.1\laba2.pdb
+C:\Users\Maxim\Desktop\laba2\laba2\bin\Debug\netcoreapp2.1\laba2.deps.json
+C:\Users\Maxim\Desktop\laba2\laba2\bin\Debug\netcoreapp2.1\laba2.runtimeconfig.json
+C:\Users\Maxim\Desktop\laba2\laba2\bin\Debug\netcoreapp2.1\laba2.runtimeconfig.dev.json
+C:\Users\Maxim\Desktop\laba2\laba2\bin\Debug\netcoreapp2.1\laba2.dll
+C:\Users\Maxim\Desktop\laba2\laba2\bin\Debug\netcoreapp2.1\laba2.pdb
+C:\Users\Maxim\Desktop\laba2\laba2\obj\Debug\netcoreapp2.1\laba2.fsproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\laba2\laba2\obj\Debug\netcoreapp2.1\laba2.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\laba2\laba2\obj\Debug\netcoreapp2.1\laba2.AssemblyInfo.fs
+C:\Users\Maxim\Desktop\laba2\laba2\obj\Debug\netcoreapp2.1\laba2.dll
+C:\Users\Maxim\Desktop\laba2\laba2\obj\Debug\netcoreapp2.1\laba2.pdb
+C:\Users\Maxim\Desktop\laba2\laba2\obj\Debug\netcoreapp2.1\laba2.genruntimeconfig.cache

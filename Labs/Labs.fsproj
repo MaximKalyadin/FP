@@ -7,7 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="пример.txt" />
     <Compile Include="Lab_1.fs" />
   </ItemGroup>
+
+  <ItemGroup />
 
 </Project>
