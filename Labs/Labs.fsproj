@@ -11,6 +11,4 @@
     <Compile Include="Lab_1.fs" />
   </ItemGroup>
 
-  <ItemGroup />
-
 </Project>

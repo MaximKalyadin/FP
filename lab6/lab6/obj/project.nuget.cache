@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7pZziqBWAizsdSWQpfXR1EYaSZMDfZSVteF05VBcHeBKgcifCdcO2ag81hTqDS7Cw7g4WUgZI8gjbJmcEK4VZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maxim\\source\\repos\\lab6\\lab6\\lab6.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maxim\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\Maxim\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Maxim\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Maxim\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

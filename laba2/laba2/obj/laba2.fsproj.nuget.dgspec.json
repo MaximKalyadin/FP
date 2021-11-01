@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maxim\\Desktop\\laba2\\laba2\\laba2.fsproj": {}
+    "C:\\Users\\Maxim\\source\\repos\\FP\\laba2\\laba2\\laba2.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\Maxim\\Desktop\\laba2\\laba2\\laba2.fsproj": {
+    "C:\\Users\\Maxim\\source\\repos\\FP\\laba2\\laba2\\laba2.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maxim\\Desktop\\laba2\\laba2\\laba2.fsproj",
+        "projectUniqueName": "C:\\Users\\Maxim\\source\\repos\\FP\\laba2\\laba2\\laba2.fsproj",
         "projectName": "laba2",
-        "projectPath": "C:\\Users\\Maxim\\Desktop\\laba2\\laba2\\laba2.fsproj",
+        "projectPath": "C:\\Users\\Maxim\\source\\repos\\FP\\laba2\\laba2\\laba2.fsproj",
         "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maxim\\Desktop\\laba2\\laba2\\obj\\",
+        "outputPath": "C:\\Users\\Maxim\\source\\repos\\FP\\laba2\\laba2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

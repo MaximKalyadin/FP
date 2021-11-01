@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R8vw3hXXSwye20iywi2ylOu0aunus77v0Fl2wk2965+aYzETws1+8A6DEwDRheUK5RMcn/oc4lWe6uFmaRj2+Q==",
+  "dgSpecHash": "tBWw8TZzaG96eTxT05p26/Fb8M/ujq02b/TCBVOrg+XUkEVUsXZW+NJoV2Wu9Wdt2RfpNCYTFfwYNifCZEbTqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maxim\\Desktop\\laba2\\laba2\\laba2.fsproj",
+  "projectFilePath": "C:\\Users\\Maxim\\source\\repos\\FP\\laba2\\laba2\\laba2.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maxim\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
     "C:\\Users\\Maxim\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
